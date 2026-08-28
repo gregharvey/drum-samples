@@ -4,7 +4,7 @@ LICENSE AND PROTECTION
 
 NOTICE TO USER:  THIS IS A CONTRACT.  BY USING THIS SAMPLE LIBRARY, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. This copy of the application is licensed to you as the end user.  Please read this Agreement carefully.
 
-1. YOU MAY:
+1) YOU MAY:
 
 (a) Use the enclosed samples on more than one computer royalty free.
 
@@ -12,7 +12,7 @@ NOTICE TO USER:  THIS IS A CONTRACT.  BY USING THIS SAMPLE LIBRARY, YOU ACCEPT A
 
 (c) Make copies of the samples solely for backup purposes.  You must reproduce and include the LICENSE AGREEMENT notice on any backup copy, and must take reasonable measures to ensure that any copy is used only as allowed by the terms of this Agreement.
 
-3. YOU MAY NOT: 
+2) YOU MAY NOT: 
 
 (a) Sell copies of the Sample Library to anyone. 
 
